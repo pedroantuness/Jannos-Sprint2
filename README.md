@@ -39,7 +39,7 @@ tornar uma api para o nosso aplicativo.
 
 **Link do vídeo pitch:**
 
-    youtube.com/watch?v=LZlFSE2hGj8
+    youtube.com/watch?v=vFRGbyM0QKU
 
 ***
 
